@@ -1,0 +1,481 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+.contener{
+	width: 1280px;
+	height: 804px;
+	background:url(../images/C-_Users_Meliodas_Desktop_New-folder_images_Untitled-1.jpg);
+	margin: 0 auto;
+	
+}
+
+.hcn3{
+	width: 220px;
+	height: 49px;
+	background-color: rgba(1,237,241,0.20);
+	margin-left: 900px;
+	position: absolute;
+	margin-top: 25px;
+	border-radius: 25%; 
+
+	
+}
+
+.hcn3 a{
+	margin-left: -95px;
+	margin-top: 21px;
+	position: absolute;
+	
+}
+.hcn3 a:hover{
+	
+	color: red;
+	}
+.hcn1{
+width: 143px;
+	height: 42px;
+	background-color: rgba(249,110,3,1.0);
+	border-radius: 45%;
+	margin-top: 450px; 
+	margin-left: 150px;
+}
+.hcn1 a{
+	margin-left: 40px;
+	margin-top: 12px;
+	position: absolute;
+	
+}
+.hcn1:hover{
+	background:rgba(255,255,255,1.00);
+	border-style:dashed;
+	}
+.hcn2{
+width: 143px;
+	height: 42px;
+	background-color:rgba(79,225,218,1.00);
+	border-radius: 45%;
+	margin-top: -40px; 
+	margin-left: 350px;
+}
+.hcn2 a{
+	margin-left: 40px;
+	margin-top: 12px;
+	position: absolute;
+	
+}
+.hcn2:hover{
+	background:rgba(255,255,255,1.00);
+	border-style: dashed;
+	}
+.hv:hover{
+	background-color:rgba(251,89,5,1.00);
+	border-style:inherit;
+	}
+.menu{
+	width: 1280px;
+	height: 80px;
+	
+	color: aliceblue;
+	font-size: 15px;
+	margin: 0 auto;
+	
+	
+}
+
+a1{
+	margin-left: 160px;
+	position: absolute;
+	margin-top: 150px;
+	font-size: 22px;
+}
+h{
+	margin-left: 165px;
+	position: absolute;
+	margin-top: 180px;
+	font-size: 35px;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"
+	
+	}
+a2{
+	margin-left: 170px;
+	position: absolute;
+	margin-top: 280px;
+	font-size: 16px;
+}
+a3{
+	margin-left: 19px;
+	position:absolute;
+	margin-top:-130px;
+	
+}
+h2{
+	position: absolute;
+	margin-top: -170px;
+	font-size: 15px;
+	margin-left: 36px;
+	color:rgba(255,255,255,0.70)
+	
+}
+h3{
+	position: absolute;
+	margin-top: -30px;
+	font-size: 14px;
+	margin-left: 62px;
+	color:rgba(255,255,255,0.70)
+	
+}
+ul{
+	list-style: none;
+}
+ul li{
+	float: left;
+     
+	position: relative;
+	margin-left:50px;
+	margin-top: 43px;
+	left: 250px
+}
+ul li a{
+	text-decoration: none;
+	color: aliceblue;
+	
+}
+ 
+ul li a:hover{
+	color: rgba(255,0,4,1.00);
+	}
+.o1{
+	width: 1280px;
+	height: 441px;
+	background-color:rgba(9,81,192,0.890);
+	margin: 0 auto;
+	margin-top:-5px;
+}
+.o2{
+	width: 1280px;
+	height: 901px;
+	background-color:azure;
+	margin: 0 auto;
+	
+}
+.hop02{
+	width: 601px;
+	height: 571px;
+
+	}
+.o2 img{
+	margin-left: 600px;
+	margin-top: -900px;
+	animation:moro2 3s linear forwards;
+	
+}
+@keyframes moro2
+{
+	0%
+	{
+		opacity: 0;
+		transform: scale(0);
+	}
+	100%{
+		opacity: 1;
+		transform: scale(1);
+	}
+	
+	
+}
+
+h4{
+	position: absolute;
+	margin-top: 250px;
+	font-size: 25px;
+	margin-left: 160px;
+	
+
+}
+a4{
+	margin-left:160px;
+	position:absolute;
+	margin-top: 300px;
+	font-size: 20px;
+}
+
+a5{
+	position: absolute;
+	margin-top: 390px;
+	margin-left: 170px;
+ font-size: 17px 
+	
+}
+.hv{
+	width: 147px;
+	height: 42px;
+	background-color: rgba(251,89,5,1.00);
+	position: absolute;
+	margin-top: 650px;
+	margin-left: 165px;
+	 border-radius:44%
+	
+}
+a6{
+	margin-left:-890px;
+	margin-top:95px;
+	position: absolute;
+	
+}
+
+.o3{
+	width: 1280px;
+	height: 276px;
+	background-color:aliceblue;
+	margin: 0 auto;
+	
+}
+.o3{
+	width: 1280px;
+	height: 553px;
+	background-color:aliceblue;
+	margin: 0 auto;
+	
+}
+.o3 img{
+	margin-top: 80px;
+	margin-left: 170px;
+	animation:moro1 3s linear forwards;
+	}
+@keyframes moro1
+{
+	0%
+	{
+		opacity: 0;
+		transform: scale(0);
+	}
+	100%{
+		opacity: 1;
+		transform: scale(1);
+	}
+	
+	
+}
+
+
+.hcn8{
+	width: 580px;
+	height: 553px;
+	
+	
+	
+}
+.hcn8 h{
+	font-size: 20px;
+	margin-left: 700px;
+	margin-top: -340px;
+
+}
+.hcn8 h:hover{
+	color: red;
+}
+.hcn8 h1{
+	font-size: 21px;
+	margin-left: 720px;
+	margin-top: -240px;
+	position: absolute;
+	
+	
+}
+.hcn8 h1:hover{
+	color: red;
+}
+.hcn8 h1{
+	font-size: 21px;
+	margin-left: 720px;
+	margin-top: -240px;
+	position: absolute;
+	
+	
+}
+
+h8{
+position: absolute;
+	margin-top: -170px;
+	font-size: 21px;
+	margin-left: 720px;
+	color:black;
+	
+	
+}
+.hcn8 a1{
+	font-size: 20px;
+	margin-left: 720px;
+	margin-top: -211px;
+	position: absolute;
+	
+	
+}
+.hcn8 a{
+	font-size: 20px;
+	margin-left: 700px;
+	margin-top: -300px;
+	position: absolute;
+	
+	
+}
+
+
+.o4{
+	width: 1280px;
+	height: 269px;
+	background-color:rgba(216,200,200,0.20);
+	margin: 0 auto;
+	
+}
+.o5{
+	width: 1280px;
+	height: 249px;
+	background-color:aliceblue;
+	margin: 0 auto;
+	
+}
+
+	
+	
+
+
+.hcn7{
+	width: 538px;
+	height: 271px;
+
+	
+}
+.hcn7 h{
+font-size: 25px;
+	margin-left: 450px;
+	margin-top: 70px;
+	
+	
+	}
+.hcn7 a{
+font-size: 20px;
+	margin-left: 420px;
+	margin-top: 120px;
+	position: absolute;
+	
+	}
+
+.o6{
+	width: 1280px;
+	height: 489px;
+	background-color:rgba(12,86,215,1.00);
+	margin: 0 auto;
+	
+
+}
+.hcn4{
+	width: 198px;
+	height: 37px;
+	
+}
+.hcn4 h{
+	font-size: 19px;
+	margin-top: 350px
+	
+	}
+.hcn5{
+	width: 198px;
+	height: 37px;
+	
+}
+.hcn5 h{
+	font-size: 19px;
+	margin-top: 350px;
+	margin-left: 530px;
+	
+	}
+.hcn6{
+	width: 198px;
+	height: 37px;
+	
+}
+.hcn6 h{
+	font-size: 19px;
+	margin-top: 310px;
+	margin-left: 900px;
+	
+	}
+.hcn6 h:hover{color:aliceblue;}
+.hcn5 h:hover{color:aliceblue;}
+.hcn4 h:hover{color:aliceblue;}
+	
+
+.o7{
+	width: 1280px;
+	height: 316px;
+	background-color:#23262b;
+	margin: 0 auto;
+	
+}
+.o7 img{
+	margin-top: 150px;
+	margin-left: -180px;
+	position: absolute;
+}
+h5{
+	color: rgba(233,192,17,1.00);
+	margin-left:590px;
+	margin-top: 50px;
+	font-size:30px; 
+	position: absolute;
+}
+ul1{
+	list-style: none;
+}
+ul1 li1{
+	float: left;
+     
+	position: relative;
+	margin-left:70px;
+	margin-top: 100px;
+	left: 290px
+}
+ul1 li1 a{
+	text-decoration: none;
+	color: aliceblue;
+	
+}
+ul1 li1 a:hover{
+	color: red;
+	}
+
+ 
+.hcn{
+	width: 213px;
+	height: 280px;
+	background-color: cornflowerblue;
+	float:left; 
+	margin-left: 20px;
+	margin-top: 80px;
+	position: relative;
+	left: 145px;
+    animation:moro 2.5s linear forwards;
+}
+.hcn:hover{
+	background:  cornflowerblue;
+	border-style: inset;
+	
+}
+
+@keyframes moro
+{
+	0%
+	{
+		opacity: 0;
+		transform: scale(0);
+	}
+	100%{
+		opacity: 1;
+		transform: scale(1);
+	}
+	
+	
+}
